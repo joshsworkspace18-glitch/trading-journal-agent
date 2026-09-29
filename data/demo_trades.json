@@ -1,0 +1,62 @@
+[
+  {
+    "trade_id": "trade_108",
+    "timestamp": "2026-09-24T10:11:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_108: Ravi bought NIFTY 24600 PE (quantity 75) at 195.03 on Thursday 24 September 2026, 10:11 IST. Reason given: Planned setup: support bounce with volume confirmation. Waited for confirmation and placed the stop-loss before entering. Mood: focused. Stop-loss used: yes. Outcome: closed at 11:03 at 231.56, P&L +2740 rupees (WIN)."
+  },
+  {
+    "trade_id": "trade_109",
+    "timestamp": "2026-09-24T12:02:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_109: Ravi bought NIFTY 24500 CE (quantity 75) at 102.91 on Thursday 24 September 2026, 12:02 IST. Reason given: Planned setup: breakout above previous day high. Waited for confirmation and placed the stop-loss before entering. Mood: calm. Stop-loss used: yes. His previous trade earlier the same day was a win (+2740 rupees) and had closed 59 minutes before this entry. Outcome: closed at 13:08 at 136.11, P&L +2490 rupees (WIN)."
+  },
+  {
+    "trade_id": "trade_110",
+    "timestamp": "2026-09-24T12:50:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_110: Ravi bought BANKNIFTY 52300 CE (quantity 30) at 86.94 on Thursday 24 September 2026, 12:50 IST. Reason given: Clean support bounce with volume confirmation. Sized normally, stop-loss set at 75.5. Mood: patient. Stop-loss used: yes. Outcome: closed at 14:02 at 225.94, P&L +4170 rupees (WIN)."
+  },
+  {
+    "trade_id": "trade_111",
+    "timestamp": "2026-09-25T11:55:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_111: Ravi bought INFY (quantity 25) at 1558.87 on Friday 25 September 2026, 11:55 IST. Reason given: Planned setup: breakout above previous day high. Waited for confirmation and placed the stop-loss before entering. Mood: calm. Stop-loss used: yes. Outcome: closed at 12:21 at 1482.07, P&L -1920 rupees (LOSS)."
+  },
+  {
+    "trade_id": "trade_112",
+    "timestamp": "2026-09-25T12:12:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_112: Ravi bought INFY (quantity 25) at 1566.63 on Friday 25 September 2026, 12:12 IST. Reason given: Planned setup: opening range breakout after 9:45. Waited for confirmation and placed the stop-loss before entering. Mood: patient. Stop-loss used: yes. Outcome: closed at 13:18 at 1630.23, P&L +1590 rupees (WIN)."
+  },
+  {
+    "trade_id": "trade_113",
+    "timestamp": "2026-09-25T13:25:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_113: Ravi bought NIFTY 24550 PE (quantity 75) at 201.99 on Friday 25 September 2026, 13:25 IST. Reason given: Kept watching it run without me, finally gave in and bought the breakout candle. Mood: impatient. Stop-loss used: no. His previous trade earlier the same day was a win (+1590 rupees) and had closed 7 minutes before this entry. Outcome: closed at 14:09 at 189.06, P&L -970 rupees (LOSS)."
+  },
+  {
+    "trade_id": "trade_114",
+    "timestamp": "2026-09-25T13:41:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_114: Ravi bought BANKNIFTY 52700 CE (quantity 30) at 58.64 on Friday 25 September 2026, 13:41 IST. Reason given: Bored, no real setup, taking one more trade before close. Mood: bored. Stop-loss used: no. Outcome: closed at 14:09 at 17.64, P&L -1230 rupees (LOSS)."
+  },
+  {
+    "trade_id": "trade_115",
+    "timestamp": "2026-09-25T13:58:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_115: Ravi bought NIFTY 24600 PE (quantity 75) at 174.04 on Friday 25 September 2026, 13:58 IST. Reason given: Bored, no real setup, taking one more trade before close. Mood: impatient. Stop-loss used: yes. Outcome: closed at 14:17 at 158.97, P&L -1130 rupees (LOSS)."
+  },
+  {
+    "trade_id": "trade_116",
+    "timestamp": "2026-09-25T14:34:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_116: Ravi bought INFY (quantity 100) at 1616.16 on Friday 25 September 2026, 14:34 IST. Reason given: Angry about the last loss, re-entering immediately and taking a bigger quantity. Mood: anxious. Stop-loss used: yes. His previous trade earlier the same day was a loss (-1130 rupees) and had closed 17 minutes before this entry. Outcome: closed at 15:06 at 1594.06, P&L -2210 rupees (LOSS)."
+  },
+  {
+    "trade_id": "trade_117",
+    "timestamp": "2026-09-25T14:39:00+05:30",
+    "context": "trade journal entry and outcome",
+    "content": "Trade trade_117: Ravi bought INFY (quantity 50) at 1592.03 on Friday 25 September 2026, 14:39 IST. Reason given: Friday afternoon, choppy market, but I want to end the week in green. Mood: impatient. Stop-loss used: yes. Outcome: closed at 15:25 at 1559.83, P&L -1610 rupees (LOSS)."
+  }
+]

@@ -1,0 +1,7 @@
+Ground-truth summary (synthetic data)
+========================================
+planned       trades= 62  win_rate=  63%  net_pnl=  +69980
+revenge       trades= 26  win_rate=  12%  net_pnl=  -58070
+fomo          trades= 14  win_rate=   7%  net_pnl=  -21050
+friday_extra  trades= 15  win_rate=  13%  net_pnl=  -19410
+ALL           trades=117  net_pnl=  -28550
